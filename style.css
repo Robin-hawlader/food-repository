@@ -45,4 +45,8 @@ a:hover{
     background-repeat: no-repeat;
     background-size: 1350px;
 }
+.center{
+    text-align: center;
+    padding:5% 15% 5% 15%;
+}
 
