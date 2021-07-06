@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    
 }
 h1{
     font-size: 50px;
@@ -32,8 +33,16 @@ span{
 a:hover{
     border: 1px solid black;
 }
-.resize-2{
-    margin-left: 60%;
+.margin{
+    margin-top: 10%;
 }
-
+.resize-2{
+    margin-left: 50%;
+}
+.background{
+    background-image: url(images/rsz_frame_58_1.png);
+    padding: 15%;
+    background-repeat: no-repeat;
+    background-size: 1350px;
+}
 
